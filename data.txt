@@ -1,0 +1,64 @@
+
+----------
+4/11/2018
+----------
+
+Vehicle ID: 1
+Ticket Type: STANDARD
+Check-In Time: 11:27:36
+Check-Out Time: 15:35:23
+Hours Parked: 4.1
+Amount Due: $7.00
+
+Vehicle ID: 2
+Ticket Type: SPECIAL
+Check-In Time: 10:47:16
+Check-Out Time: 15:35:23
+Hours Parked: 4.8
+Amount Due: $20.00
+
+Vehicle ID: 3
+Ticket Type: STANDARD
+Check-In Time: 11:39:42
+Check-Out Time: 11:39:42
+Hours Parked: 0.0
+Amount Due: $0.00
+
+Vehicle ID: 4
+Ticket Type: LOST
+Check-In Time: 11:59:1
+Check-Out Time: 11:59:1
+Hours Parked: 0.0
+Amount Due: $25.00
+
+----------
+4/14/2018
+----------
+
+Vehicle ID: 1
+Ticket Type: SPECIAL
+Check-In Time: 7:3:6
+Check-Out Time: 14:59:54
+Hours Parked: 7.9
+Amount Due: $20.00
+
+Vehicle ID: 2
+Ticket Type: STANDARD
+Check-In Time: 8:51:25
+Check-Out Time: 14:59:54
+Hours Parked: 6.1
+Amount Due: $9.00
+
+Vehicle ID: 3
+Ticket Type: SPECIAL
+Check-In Time: 8:48:56
+Check-Out Time: 8:48:56
+Hours Parked: 0.0
+Amount Due: $0.00
+
+Vehicle ID: 4
+Ticket Type: LOST
+Check-In Time: 7:57:7
+Check-Out Time: 7:57:7
+Hours Parked: 0.0
+Amount Due: $25.00
